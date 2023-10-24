@@ -1,0 +1,15 @@
+parameter,values
+Total Trades,249.0
+Profitable Trades,153.0
+Loss-Making Trades,96.0
+Win rate,0.6144578313253012
+Average Profit per trade,76.09542483660131
+Average Loss per trade,-105.54375
+Risk Reward ratio,-0.720984661210174
+Expectancy,87.44899598393575
+Average ROR per trade,0.05320794704729027
+Sharpe Ratio,0.0016129841457206502
+Max Drawdown,1618.4499999999962
+Max Drawdown Percentage,20.187851988599117
+CAGR,0.0005854332614114721
+Calmar Ratio,0.0001435751680739166
